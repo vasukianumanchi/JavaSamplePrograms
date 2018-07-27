@@ -1,3 +1,4 @@
+// java program to claculate sum of digits
 import java.io.*;
 import java.util.*;
 

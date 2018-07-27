@@ -23,5 +23,10 @@ public class maxConsecutiveString
 		}
 		System.out.println("Longest length of repeating characters is .."+count);
 		System.out.println("Repeating character is "+rep);
+		
+		for(int j=0;j<count;j++)
+			System.out.print(rep);
+			
+		System.out.println();
 	}
 }
